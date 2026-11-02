@@ -1,0 +1,48 @@
+{
+  "tuned_seed1": {
+    "period_steps": 88,
+    "predator_lag_steps": 13,
+    "mean_after_transient": {
+      "plants": 5727.575530586767,
+      "herbivores": 879.8039950062422,
+      "carnivores": 1476.3583021223471
+    }
+  },
+  "original_seed1": {
+    "first_extinction_step": 53,
+    "peak": {
+      "plants": 2500,
+      "herbivores": 662,
+      "carnivores": 377
+    }
+  },
+  "original_20_seeds": {
+    "coexist_1000_steps": "0/20",
+    "extinction_steps": [
+      53,
+      90,
+      47,
+      58,
+      52,
+      58,
+      48,
+      63,
+      55,
+      48,
+      44,
+      49,
+      68,
+      54,
+      45,
+      49,
+      49,
+      48,
+      51,
+      59
+    ]
+  },
+  "tuned_20_seeds": {
+    "coexist_1000_steps": "20/20",
+    "extinction_steps": []
+  }
+}

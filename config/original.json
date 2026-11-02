@@ -1,0 +1,19 @@
+{
+  "grid_width": 50,
+  "grid_height": 50,
+  "max_steps": 1000,
+  "initial_plants": 150,
+  "initial_herbivores": 60,
+  "initial_carnivores": 20,
+  "plant_energy_gain": 2,
+  "plant_reproduce_threshold": 15,
+  "herbivore_move_cost": 1,
+  "herbivore_energy_from_plant": 8,
+  "herbivore_reproduce_threshold": 20,
+  "carnivore_move_cost": 2,
+  "carnivore_energy_from_herbivore": 15,
+  "carnivore_reproduce_threshold": 30,
+  "initial_energy_plant": 8,
+  "initial_energy_herbivore": 15,
+  "initial_energy_carnivore": 25
+}
